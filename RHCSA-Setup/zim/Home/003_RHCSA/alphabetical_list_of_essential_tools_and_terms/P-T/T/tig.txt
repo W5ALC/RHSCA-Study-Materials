@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T06:32:40-04:00
+
+====== tig ======
+Created Tuesday 31 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+T
+
+**KYWRD:** tig
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The **tig** utility is a text-mode inferface for git that is ncurses-baed.
+
+**tig:**
+* tig - function: an ncurses text-mode interface for git.
+* tig - description: N/A
+* [[+tig - examples]]
+* [[+tig - options-flags]] 
+
+**Relevant tig links:**
+* https://jonas.github.io/tig/
+
+**Relevant tig notes:**
+* N/A
+
+**Associated tig binary files: **
+* binary location 1: not installed on my Linux system (9/9/2018).
+
+**Associated tig man pages: **
+* man location 1: not installed on my Linux system (9/9/2018)
+
+**Relevant tig Screenshots:**
+N/A

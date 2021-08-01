@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T03:35:22-04:00
+
+====== file ======
+Created Tuesday 31 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+F
+
+**KYWRD:** file
+**RHCSA Objective: **005f Diagnose and correct file permission problems
+
+**Summary:**
+The **file** command is used to determine file types on Linux/Unix systems.
+
+**file:**
+* file - function: determine file types.
+* file - description: N/A
+* [[+file - examples]] 
+* [[+file - options-flags]]
+
+**Relevant file links:**
+* https://shapeshed.com/unix-file/
+
+**Relevant file notes:**
+* N/A
+
+**Associated file binary files: **
+* binary location 1: file: /usr/bin/file /usr/share/file
+
+**Associated file man pages: **
+* man location 1:
+	* file: 
+		* /usr/share/man/man1p/file.1p.gz 
+		* /usr/share/man/man1/file.1.gz
+
+**Relevant file Screenshots:**
+N/A

@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:04:30-04:00
+
+====== uname ======
+Created Tuesday 10 July 2018
+
+[[:Home:002 all templates:generic template]] version: Wednesday 08/08/18 11:14:36 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U]]
+
+**KYWRD:** uname
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+The **uname** utility is used to print system information.  Uname is short for **Unix Name**.
+
+**uname:**
+* uname - function: Print system information.
+* uname - description: Print system information using the provided options.
+* [[+uname - examples]] 
+* [[+uname - examples:uname - options-flags]]
+
+**Relevant uname links:**
+* https://en.wikipedia.org/wiki/Uname
+
+**Relevant uname notes**
+* N/A
+
+**Associated binary files: **
+* [[binary location]] 1: uname: /usr/bin/uname
+
+**Associated man pages: **
+* [[man location]] 1: 
+	* uname: 
+		* /usr/share/man/man3p/uname.3p.gz 
+		* /usr/share/man/man2/uname.2.gz 
+		* /usr/share/man/man1/uname.1.gz 
+		* /usr/share/man/man1p/uname.1p.gz
+
+**Relevant uname Screenshots**
+N/A

@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T03:19:38-04:00
+
+====== sort ======
+Created Tuesday 31 July 2018
+
+generic template version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+RHCSA exam:objectives
+S
+
+**KYWRD:** sort
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+The **sort** utility is used to sort the lines of a given text file.
+
+**sort:**
+* sort - function: sort lines of text file.
+* sort - description: N/A
+* [[+sort - options-flags]] 
+* [[+sort - examples]]
+
+**Relevant sort links:**
+* http://pubs.opengroup.org/onlinepubs/9699919799/utilities/sort.html
+* https://en.wikipedia.org/wiki/Sort_(Unix)
+
+**Relevant sort notes**
+* N/A
+
+**Associated binary files: **
+* binary location 1: sort: /usr/bin/sort
+
+**Associated man pages: **
+* man location 1: 
+	* sort: 
+		* /usr/share/man/man3/sort.3pm.gz 
+		* /usr/share/man/man1/sort.1.gz 
+		* /usr/share/man/man1p/sort.1p.gz
+
+**Relevant sort Screenshots**
+N/A

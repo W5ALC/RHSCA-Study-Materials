@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-15T01:53:32-04:00
+
+====== command-line interpreter ======
+Created Monday 15 October 2018
+
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
+
+**KYWRD:** command-line interpreter
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+A **command-line interpreter** is designed to read lines of text entered by the computer's user, and to execute them.
+
+Some popular command-line interpreters for Linux/Unix:
+* bash
+* Bourne shell
+* KornShell
+
+**command-line interpreter:**
+* command-line interpreter - function: read and execute lines of text entered by the computer's user.
+* command-line interpreter - description: N/A
+* [[+command-line interpreter - examples]] 
+* [[+command-line interpreter - options-flags]] 
+
+**Relevant command-line interpreter links:**
+* https://en.wikipedia.org/wiki/List_of_command-line_interpreters
+
+**Relevant command-line interpreter notes:**
+* N/A
+
+**Associated command-line interpreter binary files: **
+* [[binary location]] 1: N/A
+
+**Associated command-line interpreter man pages: **
+* [[man location]] 1: N/A
+
+**Relevant command-line interpreter Screenshots:**
+N/A

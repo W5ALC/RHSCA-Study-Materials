@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T04:17:40-04:00
+
+====== hdparm ======
+Created Tuesday 31 July 2018
+
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[H]]
+
+**KYWRD:** hdparm
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary:**
+**hdparm** provides a command line interface to drive-related kernel interfaces (SATA, PATA, SAS etc).
+
+**hdparm:**
+* hdparm - function: State the main function of the topic here.
+* hdparm - description: Provide a more detail description here.
+* hdparm - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the hdparm examples page using this template:  [[:Home:002 all templates:examples homepage template]] ]
+* hdparm - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the hdparm options page using this template:  [[:Home:002 all templates:options template]] ]
+
+
+**Relevant hdparm links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant hdparm notes:**
+* note 1
+* note 2
+* note 3
+
+**Associated hdparm binary files: **
+* [[:Home:binary location]] 1:
+
+**Associated hdparm man pages: **
+* [[:Home:man location]] 1:
+
+**Relevant hdparm Screenshots:**
+Paste any relevant screenshots here.

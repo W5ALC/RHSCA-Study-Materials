@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T02:09:53-04:00
+
+====== core.img ======
+Created Thursday 19 July 2018
+
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:F-J:G:GRUB:GRUB image files]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
+
+**KYWRD:** core.img
+**RHCSA Objective: **002a Boot, reboot, and shut down a system normally
+
+**Summary:**
+ core.img
+	* is the core image of GRUB
+	* is built dynamically from the kernel image and kernel modules
+	* is designed to be kept small
+
+**core.img:**
+* core.img - function: The core image of GRUB.
+* core.img - description: N/A
+* core.img - examples: N/A
+* core.img - options-flags: N/A
+
+**Relevant core.img links:**
+* https://www.gnu.org/software/grub/manual/grub/html_node/Images.html
+
+**Relevant core.img notes:**
+* N/A
+
+**Associated core.img binary files: **
+* [[binary location]] 1: N/A
+
+**Associated core.img man pages: **
+* [[man location]] 1: N/A
+
+**Relevant core.img Screenshots:**
+N/A

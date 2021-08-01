@@ -1,0 +1,19 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-02T21:41:43-04:00
+
+====== 000 TODO LIST ======
+Created Thursday 02 August 2018
+
+[[:Home]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[001 TODO LIST - ARCHIVED]]
+
+**Summary**
+This TODO list helps me to keep track of items that I decided to leave for later completion.
+
+TODO LIST:
+Add [[~/Dropbox/sync0001/PROJECTS/RHCSA/lectures/network_services/chrony.odp]] to [[003 RHCSA:alphabetical list of essential tools and terms:A-E:C:chrony]]
+I moved everything over to Dropbox. Updates all links from Sync to Dropbox/sync0001. Please name appropriately on your system (10/13/2019).
+
+

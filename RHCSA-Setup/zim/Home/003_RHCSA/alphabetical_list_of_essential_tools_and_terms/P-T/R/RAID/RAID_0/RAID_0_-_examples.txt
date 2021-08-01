@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-21T03:01:21-05:00
+
+====== RAID 0 - examples ======
+Created Wednesday 21 November 2018
+
+[[:Home:002 all templates:examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[RAID 0]]
+
+**KYWRD:** RAID 0
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
+
+**Summary:**
+This article contains examples that illustrate the correct use of **RAID 0**.
+
+**RAID 0 - examples:**
+* RAID 0 - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
+* RAID 0 - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* RAID 0 - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
+
+**Relevant RAID 0 links:**
+* https://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_0
+
+**Relevant RAID 0 Screenshots:**
+{{~/Downloads/325px-RAID_0.svg.png}}

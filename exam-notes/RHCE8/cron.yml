@@ -1,0 +1,9 @@
+---
+- name: add cron
+  hosts: nodes
+  tasks:
+  - name: add cron job
+    cron:
+      name: date
+      user: root
+      job: "date > /cronjob"

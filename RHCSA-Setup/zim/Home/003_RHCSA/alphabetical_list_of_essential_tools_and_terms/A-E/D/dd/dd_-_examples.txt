@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-07T21:40:25-04:00
+
+====== dd - examples ======
+Created Sunday 07 October 2018
+
+[[002 all templates:examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[000 TODO LIST]]
+[[RHCSA exam:objectives]]
+[[dd]]
+
+**KYWRD:** dd
+**RHCSA Objective: **001h Create, delete, copy, and move files and directories
+
+**Summary:**
+This article contains examples that illustrate the correct use of the **dd **command.
+
+**dd - examples:**
+* dd - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
+* dd - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* dd - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
+
+**Relevant dd links:**
+N/A
+
+**Relevant dd Screenshots:**
+N/A

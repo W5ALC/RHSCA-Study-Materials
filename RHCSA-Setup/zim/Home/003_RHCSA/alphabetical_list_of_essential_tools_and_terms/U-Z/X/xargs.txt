@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T03:32:49-04:00
+
+====== xargs ======
+Created Tuesday 31 July 2018
+
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:X]]
+
+**KYWRD:** xargs
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+**xargs** is used to build and execute commands from **standard input** (stdin).
+
+**xargs:**
+* xargs - function: build and execute commands from stdin.
+* xargs - description: N/A
+* [[+xargs - examples]] 
+* [[+xargs - options-flags]] 
+
+**Relevant xargs links:**
+* https://en.wikipedia.org/wiki/Xargs
+
+**Relevant xargs notes:**
+* N/A
+
+**Associated xargs binary files: **
+* [[:Home:binary location]] 1: xargs: /usr/bin/xargs
+
+**Associated xargs man pages: **
+* [[:Home:man location]] 1:
+	* xargs:
+		* /usr/share/man/man1/xargs.1.gz 
+		* /usr/share/man/man1p/xargs.1p.gz
+
+**Relevant xargs Screenshots:**
+N/A

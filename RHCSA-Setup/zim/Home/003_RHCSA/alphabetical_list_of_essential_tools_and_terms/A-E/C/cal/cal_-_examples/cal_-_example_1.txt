@@ -1,0 +1,34 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-08T22:00:00-04:00
+
+====== cal - example 1 ======
+Created Saturday 08 September 2018
+
+[[:Home:002 all templates:examples homepage template:examples template]] version: Wednesday 09/05/18 04:34:19 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[cal - example 1]]
+
+**KYWRD:** cal - example 1
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+cal - example 1 demonstrates how to correctly use the **cal** command.
+
+**Scenario:**
+Bose is a RHEL sysadmin at Google.  She wants to display a calendar of the current month with the current day highlighted. What command will she issue?
+
+**cal - example 1 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. At a command prompt, issue the cal command: __cal__
+
+**Relevant cal - example 1 links:**
+* N/A
+
+**Relevant cal - example 1 Screenshots:**
+{{./pasted_image.png}}

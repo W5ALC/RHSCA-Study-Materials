@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T03:13:55-04:00
+
+====== read ======
+Created Tuesday 31 July 2018
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R]]
+
+**KYWRD:** read
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The Linux/Unix **read** utlity is a Bash shell builtin that reads one line from standard input, or from a file, and assigns the word(s) to variable name(s).
+
+**read:**
+* read - function: Read a single line of text and assign the word(s) to variable(s).
+* read - description: N/A
+* [[+read - examples]] 
+* [[+read - options-flags]] 
+
+**Relevant read links:**
+* https://en.wikipedia.org/wiki/Read_(Unix)
+
+**Relevant read notes:**
+* N/A
+
+**Associated read binary files: **
+* [[:Home:binary location]] 1: read: /usr/bin/read
+
+**Associated read man pages: **
+* [[:Home:man location]] 1:
+	* read: 
+		* /usr/share/man/man3p/read.3p.gz 
+		* /usr/share/man/man2/read.2.gz 
+		* /usr/share/man/man1/read.1.gz 
+		* /usr/share/man/man1p/read.1p.gz
+
+**Relevant read Screenshots:**
+N/A

@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T03:51:23-04:00
+
+====== sleep ======
+Created Tuesday 31 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+S
+
+**KYWRD:** sleep
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The **sleep** command is used to delay a Linux/Unix machine by a specified amount of time.
+
+**sleep:**
+* sleep - function: delay the machine by a specified amount of time.
+* sleep - description:N/A
+* [[+sleep - examples]] 
+* [[+sleep - options-flags]] 
+
+**Relevant sleep links:**
+* https://www.computerhope.com/unix/usleep.htm
+
+**Relevant sleep notes:**
+* N/A
+
+**Associated sleep binary files: **
+* binary location 1: sleep: /usr/bin/sleep
+
+**Associated sleep man pages: **
+* man location 1:
+	* sleep: 
+		* /usr/share/man/man3/sleep.3.gz 
+		* /usr/share/man/man3p/sleep.3p.gz 
+		* /usr/share/man/man1p/sleep.1p.gz 
+		* /usr/share/man/man1/sleep.1.gz
+
+**Relevant sleep Screenshots:**
+N/A

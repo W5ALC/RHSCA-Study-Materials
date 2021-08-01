@@ -1,0 +1,38 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-28T00:08:05-04:00
+
+====== RAM disk ======
+Created Saturday 28 July 2018
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R]]
+
+**KYWRD:** RAM disk
+**RHCSA Objective: **002d Identify CPU/memory intensive processes, adjust process priority with renice, and kill processes
+
+**Summary:**
+In Linux/Unix, the **RAM disk** is a memory-based file system that provides very  fast low-latency file access.
+
+**RAM disk:**
+* RAM disk - function: Fast low-latency file access in a RAM-based file system.
+* RAM disk - description: N/A
+* RAM disk - examples: N/A
+* RAM disk - options-flags: N/A
+**Relevant RAM disk links:**
+* https://en.wikipedia.org/wiki/RAM_drive
+
+**Relevant RAM disk notes:**
+* N/A
+
+**Associated RAM disk binary files: **
+* [[:Home:binary location]] location 1: N/A
+
+**Associated RAM disk man pages: **
+* [[:Home:man location]] 1: N/A
+
+**Relevant RAM disk Screenshots:**
+N/A

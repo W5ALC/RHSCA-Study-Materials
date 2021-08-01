@@ -1,0 +1,53 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T03:28:29-04:00
+
+====== vi ======
+Created Tuesday 31 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+V
+
+**KYWRD:** vi
+**RHCSA Objective: **001g Create and edit text files
+
+**Summary:**
+**vi** is a command-line-based text editor for Linux/Unix.  It was created by software developer Bill Joy in 1976.
+
+**vi Modes of Operation:**
+vi has 3 possible modes of operation.  The vi user has the capability to switch to any of the 3 modes:
+1. **vi Mode**: this is the mode that vi starts in.
+2. **Input Mode**:  This mode allows the user to add or remove text data from the file, or to edit existing text data in the file.
+3. **Command Mode**: vi commands can be issued.
+
+**vi:**
+* vi - function: a Linux/Unix text editor.
+* vi - description: N/A
+* [[+vi - examples]] 
+* [[+vi - options-flags]] 
+
+**Relevant vi links:**
+* https://en.wikipedia.org/wiki/Vi
+
+**Relevant vi notes:**
+* N/A
+
+**Associated vi binary files: **
+* binary location 1: vi: /usr/bin/vi
+
+**Associated vi man pages: **
+* man location 1:
+	* vi: 
+		* /usr/share/man/man1/vi.1.gz 
+		* /usr/share/man/man1p/vi.1p.gz
+
+**Relevant vi Screenshots:**
+N/A
+
+

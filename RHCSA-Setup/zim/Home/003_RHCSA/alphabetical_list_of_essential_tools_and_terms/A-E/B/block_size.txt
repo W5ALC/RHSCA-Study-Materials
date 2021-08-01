@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-28T00:09:52-04:00
+
+====== block size ======
+Created Saturday 28 July 2018
+
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B]]
+
+**KYWRD:** block size
+**RHCSA Objective: **003b Create and remove physical volumes, assign physical volumes to volume groups, and create and delete logical volumes
+
+**Summary**
+A block is a series of data of fixed length (e.g. 4kB, 8kB etc.). The **block size** of a filesystem in Linux can be found using the blockdev command. 
+For examples:
+* __blockdev --getbsz /dev/sda1__ (this command must be run with root privileges => su -c "blockdev --getbsz [[/dev/sda1"]])
+
+
+**block size:**
+* block size - function: Represents the size of a block, a series of data of fixed length on Linux/Unix systems.
+* block size - description: N/A
+* [[+block size - examples]] 
+* [[+block size - options-flags]] 
+
+**Relevant block size links:**
+* https://www.quora.com/What-is-the-block-size-in-unix
+
+**Relevant block size notes:**
+* N/A
+
+**Associated block size binary files: **
+* [[binary location]] 1: N/A
+
+**Associated block size man pages: **
+* [[man location]] 1: N/A
+
+**Relevant block size Screenshots:**
+N/A

@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-21T01:59:17-05:00
+
+====== RAID 0 ======
+Created Wednesday 21 November 2018
+
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[RAID]]
+
+**KYWRD:** RAID 0
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
+
+**Summary:**
+RAID 0:
+* Also known as **stripe set** or **striped volume**.
+* Splits the data evenly across 2 or more disks.
+* No parity information.
+* No redundancy.
+* No fault tolerance.
+* Since no fault tolerance or redundancy, the failure of one drive will cause the entire array to fail, resulting in a total loss of data.
+* Improved speed performance is the intended goal of RAID 0.
+
+
+**RAID 0:**
+* RAID 0 - function: Stripe data across a disk array with no redundancy or fault tolerance.
+* RAID 0 - description: N/A
+* [[+RAID 0 - examples]]
+* [[+RAID 0 - options-flags]]
+
+**Relevant RAID 0 links:**
+* https://en.wikipedia.org/wiki/Standard_RAID_levels#RAID_0
+
+**Relevant RAID 0 notes:**
+* [[~/Sync/PROJECTS/RHCSA/lectures/raid/RAID_0.odp]]
+
+**Associated RAID 0 binary files: **
+* [[:Home:binary location]] 1: N/A
+
+**Associated RAID 0 man pages: **
+* [[:Home:man location]] 1: N/A
+
+**Relevant RAID 0 Screenshots:**
+{{./pasted_image.png?width=800}}

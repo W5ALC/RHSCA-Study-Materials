@@ -1,0 +1,53 @@
+---
+
+- import_playbook: rhel8-settings.yml
+  tags: settings
+
+- import_playbook: rhel8-prep.yml
+  tags: prep
+
+- import_playbook: rhel8-unit-wayland.yml
+  tags: wayland
+
+- import_playbook: rhel8-unit-appstream.yml
+  tags: appstream
+
+- import_playbook: rhel8-unit-systemd.yml
+  tags: systemd
+
+- import_playbook: rhel8-unit-firewalld.yml
+  tags: firewalld
+
+- import_playbook: rhel8-unit-nftables.yml
+  tags: nftables
+
+- import_playbook: rhel8-unit-ebpf.yml
+  tags: ebpf
+
+- import_playbook: rhel8-unit-boom.yml
+  tags: boom
+
+- import_playbook: rhel8-unit-podman.yml
+  tags: podman
+
+- import_playbook: rhel8-unit-buildah.yml
+  tags: buildah
+
+- import_playbook: rhel8-unit-stratis.yml
+  tags: stratis
+
+- import_playbook: rhel8-unit-tlog.yml
+  tags: tlog
+
+- import_playbook: rhel8-unit-lvm-vdo.yml
+  tags: vdo
+
+- import_playbook: rhel8-unit-virtualization.yml
+  tags: virt
+
+- import_playbook: rhel8-unit-kpatch.yml
+  tags: kpatch
+
+## Save the webconsole for last since it will discconect webconsole session on service restart
+- import_playbook: rhel8-unit-webconsole.yml
+  tags: webconsole

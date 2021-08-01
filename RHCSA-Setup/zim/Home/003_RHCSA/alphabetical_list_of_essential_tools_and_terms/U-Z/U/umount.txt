@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T03:39:25-04:00
+
+====== umount ======
+Created Tuesday 31 July 2018
+
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z:U]]
+
+**KYWRD:** umount
+**RHCSA Objective: **004a Create, mount, unmount, and use vfat, ext4, and xfs file systems
+
+**Summary:**
+The **umount** utility is used to unmount file systems on Linux/Unix computer systems.
+
+**umount:**
+* umount - function: unmount file systems.
+* umount - description: N/A
+* [[+umount - examples]] 
+* [[+umount - options-flags]]
+
+**Relevant umount links:**
+* https://en.wikipedia.org/wiki/Mount_(Unix)
+
+**Relevant umount notes:**
+* N/A
+
+**Associated umount binary files: **
+* [[binary location]] 1:
+	* umount: 
+		* /usr/bin/umount 
+		* /usr/sbin/umount.nfs 
+		* /usr/sbin/umount.nfs4 
+		* /usr/sbin/umount.udisks2
+
+**Associated umount man pages: **
+* [[man location]] 1:
+	* umount: 
+		* /usr/share/man/man8/umount.8.gz 
+		* /usr/share/man/man2/umount.2.gz
+
+**Relevant umount Screenshots:**
+N/A

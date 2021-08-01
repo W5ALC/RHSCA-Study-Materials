@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T04:29:22-04:00
+
+====== bg ======
+Created Tuesday 31 July 2018
+
+
+[[:Home:002 all templates:generic template]] version: Wednesday 09/05/18 01:25:38 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B]]
+
+**KYWRD:** bg
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+**bg** is a Linux/Unix utility that is used to restart and suspended job. Once restarted, the job runs in the background.
+
+**bg:**
+* bg - function: Restart suspended jobs, and runs them in the background.
+* bg - description: N/A
+* [[+bg - examples]]
+* [[+bg - options-flags]] 
+
+**Relevant bg links:**
+* http://pubs.opengroup.org/onlinepubs/9699919799/utilities/bg.html
+* https://en.wikipedia.org/wiki/Job_control_(Unix)
+* http://tldp.org/LDP/abs/html/x9644.html
+
+**Relevant bg notes:**
+* N/A
+
+**Associated bg binary files: **
+* [[binary location]] 1: bg: /usr/bin/bg
+
+**Associated bg man pages: **
+* [[man location]] 1:
+	* bg: 
+		* /usr/share/man/man1/bg.1.gz 
+		* /usr/share/man/man1p/bg.1p.gz
+
+**Relevant bg Screenshots:**
+N/A

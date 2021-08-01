@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T05:25:02-04:00
+
+====== import ======
+Created Tuesday 31 July 2018
+
+generic template version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+RHCSA Objectives
+I
+
+**KYWRD:** import
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+The import utility is used to save any visible X server window, and save it as an image file. It can be used to take a screenshot of any rectangular portion of the screen, the whole screen, or any individual window.
+
+**import:**
+* import - function: take screenshots.
+* import - description:N/A.
+* [[+import - options-flags]] 
+* [[+import - examples]] 
+
+**Relevant import links:**
+* N/A
+
+**Relevant import notes**
+* N/A
+
+**Associated binary files: **
+* binary location 1: import: /usr/bin/import
+
+**Associated man pages: **
+* man location 1: import: /usr/share/man/man1/import.1.gz
+
+**Relevant import Screenshots**
+N/A

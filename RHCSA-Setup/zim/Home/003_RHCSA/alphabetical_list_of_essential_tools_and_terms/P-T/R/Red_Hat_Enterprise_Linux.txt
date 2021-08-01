@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-16T12:26:06-04:00
+
+====== Red Hat Enterprise Linux ======
+Created Monday 16 July 2018
+
+[[:Home:002 all templates:generic template]]: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R]]
+
+**KYWRD:** RHEL
+**RHCSA Objective: **N/A
+
+**Summary:**
+See [[RHEL]].
+
+**RHEL:**
+* RHEL - function: See [[RHEL]].
+* RHEL - description: See [[RHEL]].
+* RHEL - examples: See [[RHEL]].
+* RHEL - options-flags: See [[RHEL]].
+
+**Relevant RHEL links:**
+* https://www.redhat.com/en/technologies/linux-platforms/enterprise-linux
+* https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux
+
+**Relevant RHEL notes:**
+* N/A
+
+**Associated RHEL binary files: **
+* [[binary location]] 1: N/A
+
+**Associated RHEL man pages: **
+* [[man location]] 1: N/A
+
+**Relevant RHEL Screenshots:**
+N/A
+

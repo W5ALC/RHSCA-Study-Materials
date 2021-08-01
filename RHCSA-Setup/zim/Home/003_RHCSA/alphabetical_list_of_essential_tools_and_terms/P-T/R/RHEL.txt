@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-16T12:26:10-04:00
+
+====== RHEL ======
+Created Monday 16 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+R
+
+**KYWRD:** RHEL
+**RHCSA Objective: **002a Boot, reboot, and shut down a system normally
+
+**Summary:**
+**RHEL **stands for **Red Hat Enterprise Linux**. RHEL is Red Hat Corporation's enterprise Linux operating system, which is designed for use by businesses.
+
+**RHEL:**
+* RHEL - function: Red Hat's commercial Linux operating system for enterprise customers.
+* RHEL - description: N/A
+* RHEL - examples: N/A
+* RHEL - options-flags: N/A
+
+**Relevant RHEL links:**
+* https://en.wikipedia.org/wiki/Red_Hat_Enterprise_Linux
+
+**Relevant RHEL notes:**
+* N/A
+
+**Associated RHEL binary files: **
+* binary location 1: N/A
+
+**Associated RHEL man pages: **
+* man location 1: N/A
+
+**Relevant RHEL Screenshots:**
+N/A

@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T16:54:29-04:00
+
+====== GRUB ======
+Created Wednesday 18 July 2018
+
+[[002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[RHCSA exam:objectives]]
+[[G]]
+
+**KYWRD:** GRUB
+**RHCSA Objective: **005k Modify the system bootloader
+
+**Summary:**
+**GRUB** is a boot loader package for Linux/Unix systems developed by the [[GNU Project]].  GRUB is an acronym that stands for **GRand Unified Bootloader**.
+
+**GRUB:**
+* GRUB - function: a bootloader for Linux/Unix.
+* GRUB - description: N/A
+* [[+GRUB - examples]] 
+* GRUB image files
+* [[+GRUB - options-flags]]
+* [[+GRUB Stages]]
+
+**Relevant GRUB links:**
+* https://en.wikipedia.org/wiki/GNU_GRUB
+* https://www.gnu.org/software/grub/
+
+**Relevant GRUB notes:**
+* N/A
+
+**Associated GRUB binary files: **
+* [[binary location]] 1:
+	* grub: 
+		* /usr/lib/grub 
+		* /etc/grub.d 
+		* /etc/grub2.cfg 
+		* /usr/share/grub
+
+**Associated GRUB man pages: **
+* [[man location]] 1: N/A
+
+**Relevant GRUB Screenshots:**
+N/A.

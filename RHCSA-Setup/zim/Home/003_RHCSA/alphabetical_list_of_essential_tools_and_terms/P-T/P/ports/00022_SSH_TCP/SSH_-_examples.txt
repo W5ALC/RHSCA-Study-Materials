@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-05T04:36:49-04:00
+
+====== SSH - examples ======
+Created Wednesday 05 September 2018
+
+examples homepage template version: Monday 08/13/18 06:01:29 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+002 all templates
+00 TODO LIST
+RHCSA Objectives
+00022 SSH TCP
+
+**KYWRD:** SSH
+**RHCSA Objective: **001d Access remote systems using SSH
+
+**Summary**
+This article demonstrates the correct use of the SSH command.
+
+**SSH - examples:**
+* [[+SSH - example 1]] : Login to a remote shell using SSH. Create an empty file, populate the file with the names of tech companies, and then exit the remote shell.
+* [[+SSH - example 2]] : Use SSH to login to a remote server, edit a file, and exit.
+* [[+SSH - example 3]] : Create example 3 using this examples template, and then briefly describe example 3.
+
+**Relevant SSH links:**
+* N/A
+
+**Relevant SSH Screenshots**
+N/A

@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T04:29:27-04:00
+
+====== fg ======
+Created Tuesday 31 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+F
+
+**KYWRD:** fg
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+**fg** is a bash built-in command.  It is used to fun a specified job in the foreground.
+
+**fg:**
+* fg - function: run a specified job in the foreground.
+* fg - description: N/A
+* [[+fg - examples]]
+* [[+fg - options-flags]] 
+
+**Relevant fg links:**
+* https://www.computerhope.com/unix/ufg.htm
+
+**Relevant fg notes:**
+* N/A
+
+**Associated fg binary files: **
+* binary location 1: fg: /usr/bin/fg
+
+**Associated fg man pages: **
+* man location 1:
+	* fg:
+		* /usr/share/man/man1p/fg.1p.gz 
+		* /usr/share/man/man1/fg.1.gz
+
+**Relevant fg Screenshots:**
+N/A

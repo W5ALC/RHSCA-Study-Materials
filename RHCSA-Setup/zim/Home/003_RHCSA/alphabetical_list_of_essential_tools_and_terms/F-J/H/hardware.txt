@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:01:45-04:00
+
+====== hardware ======
+Created Tuesday 10 July 2018
+
+[[002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[RHCSA exam:objectives]]
+[[H]]
+
+**KYWRD:** hardware
+**RHCSA Objective: **N/A
+
+**Summary:**
+Computer operating systems, such as RHEL or CentOS, have to be able handle hardware from a variety of vendors.  CentOS has a hardware support forum here https://www.centos.org/forums/viewforum.php?f=49 
+Red Hat maintains a hardware compatibility list here: https://access.redhat.com/ecosystem/search/#/category/Server
+
+**hardware:**
+* hardware - function: computer hardware consists of the physical components that allow a computer to function. This includes the keyboard, mouse, monitor, CPU, RAM etc.
+* hardware - description: N/A
+
+**Relevant hardware links:**
+[[A-E:C:cpuinfo]]
+[[A-E:D:df]]
+[[A-E:D:dmidecode]]
+[[F:free]]
+ [[I:ishal]]
+[[K-O:L:lsblk]]
+[[K-O:L:lspci]]
+ [[K-O:L:lsusb]]
+ [[K-O:L:lshw]]
+[[P-T:T:top]]
+
+**Relevant hardware notes:**
+* N/A
+
+**Associated hardware binary files: **
+* [[binary location]] 1: N/A
+
+**Associated hardware man pages: **
+* [[man location]] 1: N/A
+
+**Relevant hardware Screenshots:**
+N/A

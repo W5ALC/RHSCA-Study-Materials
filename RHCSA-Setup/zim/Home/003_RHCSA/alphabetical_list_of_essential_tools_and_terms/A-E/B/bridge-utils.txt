@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-08T12:14:46-04:00
+
+====== bridge-utils ======
+Created Wednesday 08 August 2018
+
+[[:Home:002 all templates:generic template]] version: Wednesday 08/08/18 11:14:36 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:B]]
+
+**KYWRD:** bridge-utils
+**RHCSA Objective: **002h Start, stop, and check the status of network services
+
+**Summary**
+bridge-utils is a deprecated network bridge creation suite that has been replaced by F-J:I:iproute2.
+
+**bridge-utils:**
+* bridge-utils - function: State the main function of the topic here.
+* bridge-utils - description: Provide a more detail description here.
+* bridge-utils - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the bridge-utils options page using this template: options template]
+* bridge-utils - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the bridge-utils examples page using this template:  examples homepage template]
+
+**Relevant bridge-utils links:**
+* https://fedoramagazine.org/build-network-bridge-fedora/
+
+**Relevant bridge-utils notes**
+* N/A
+
+**Associated binary files: **
+* [[binary location]] 1: N/A
+
+**Associated man pages: **
+* [[man location]] 1: N/A
+
+**Relevant bridge-utils Screenshots**
+N/A

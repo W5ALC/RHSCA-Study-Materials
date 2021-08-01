@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-18T16:41:00-04:00
+
+====== GUID Partition Table ======
+Created Wednesday 18 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+G
+
+**KYWRD:** GUID Partition Table
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
+
+**Summary:**
+The **GUID Partition Table **provides a standard layout for the partition table in digital storage devices, suich as hard drives and solid state drives.
+
+**GUID Partition Table:**
+* GUID Partition Table - function: provides standard layout for the partition table on digital storage devices.
+* GUID Partition Table - description: N/A
+* [[+GUID Partition Table - examples]]
+* GUID Partition Table - options-flags: N/A
+
+**Relevant GUID Partition Table links:**
+* https://en.wikipedia.org/wiki/GUID_Partition_Table
+
+**Relevant GUID Partition Table notes:**
+* N/A
+
+**Associated GUID Partition Table binary files: **
+* binary location 1: N/A
+
+**Associated GUID Partition Table man pages: **
+* man location 1: N/A
+
+**Relevant GUID Partition Table Screenshots:**
+N/A

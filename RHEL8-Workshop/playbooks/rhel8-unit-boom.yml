@@ -1,0 +1,35 @@
+---
+- hosts: node3
+  tasks:
+  
+    - name: "rhel8-unit-boom : yum install packages"
+      yum: name=boom-boot state=installed
+      register: result
+      retries: 10
+      until: result is succeeded
+      delay: 5
+
+    - name: "PREP-SSHKEYS: known_hosts {{ workshop_vars.studentName }} file permissions"
+      file:
+        path: "/boot/loader/entries/84047b4cff36437eb8209baa78d1ef3c-0-rescue.conf"
+        state: absent
+      
+    - name: "rhel8-unit-boom : cheat file installs"
+      template:
+        src: "{{ item.src }}"
+        dest: "{{ item.dest }}"
+        owner: root
+        group: root
+        mode: 0744
+      with_items:
+        - {src: 'cheat-checkhost.j2', dest: '/usr/local/bin/cheat-boom-checkhost.sh'} 
+        - {src: 'cheat-boom-mkprofile.j2', dest: '/usr/local/bin/cheat-boom-mkprofile.sh'} 
+        - {src: 'cheat-boom-mkentry.j2', dest: '/usr/local/bin/cheat-boom-mkentry.sh'} 
+        - {src: 'cheat-boom-mkentry-custom.j2', dest: '/usr/local/bin/cheat-boom-mkentry-custom.sh'} 
+        - {src: 'cheat-boom-snap-addstorage.j2', dest: '/usr/local/bin/cheat-boom-addstorage.sh'} 
+        - {src: 'cheat-boom-snap-mksnap.j2', dest: '/usr/local/bin/cheat-boom-mksnap.sh'} 
+        - {src: 'cheat-boom-snap-mkentry.j2', dest: '/usr/local/bin/cheat-boom-snap.sh'} 
+        - {src: 'cheat-boom-snap-lvreport.j2', dest: '/usr/local/bin/cheat-boom-snap-lvreport.sh'} 
+        - {src: 'cheat-boom-snap-importantstuff.j2', dest: '/usr/local/bin/cheat-boom-snap-importantstuff.sh'} 
+        - {src: 'cheat-boom-grublist.j2', dest: '/usr/local/bin/cheat-boom-grublist.sh'} 
+        

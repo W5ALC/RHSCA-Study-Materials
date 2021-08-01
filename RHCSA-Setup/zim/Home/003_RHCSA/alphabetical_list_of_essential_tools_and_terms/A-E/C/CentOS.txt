@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-16T18:27:32-04:00
+
+====== CentOS ======
+Created Monday 16 July 2018
+
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
+
+**KYWRD:** CentOS
+**RHCSA Objective: **N/A
+
+**Summary:**
+**CentOS** stands for **Community Enterprise Operating System**. CentOS is built from the open source software packages that are used to build Red Hat Enterprise Linux (RHEL). A specified version of CentOS is virtually 100% compatible with the same version number of RHEL. For example, someone wanting to learn RHEL 7.3 could download and install CentOS 7.3, and the experience would almost be completely identical to the RHEL experience.  Using RHEL requires the computer user to pay a support fee to Red Hat, while CentOS can be downloaded and installed for free. This makes CentOS very attractive to people who want to learn RHEL on a tight budget.
+
+**CentOS:**
+* CentOS - function: A GNU/Linux computer opeprating system that is very similar to Red Hat Enterprise Linux.
+* CentOS - description: N/A
+* CentOS - examples: N/A
+* CentOS - options-flags: N/A
+
+**Relevant CentOS links:**
+* https://www.centos.org/
+* https://en.wikipedia.org/wiki/CentOS
+
+**Relevant CentOS notes:**
+* N/A
+
+**Associated CentOS binary files: **
+* [[binary location]] 1: N/A
+
+**Associated CentOS man pages: **
+* [[man location]] 1: N/A
+
+**Relevant CentOS Screenshots:**
+N/A

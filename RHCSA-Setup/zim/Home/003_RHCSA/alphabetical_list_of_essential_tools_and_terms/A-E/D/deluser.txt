@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:07:58-04:00
+
+====== deluser ======
+Created Tuesday 10 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+U-Z:U:users
+D
+
+**KYWRD:** deluser
+**RHCSA Objective: **006a Create, delete, and modify local user accounts
+
+**Summary:**
+See userdel.
+
+**deluser:**
+* deluser - function: See userdel.
+* deluser - description: See userdel.
+* deluser - examples: See userdel.
+* deluser - options-flags: See userdel.
+
+**Relevant deluser links:**
+* See userdel.
+
+**Relevant deluser notes:**
+* See userdel.
+
+**Associated deluser binary files: **
+* binary location 1: See userdel.
+
+**Associated deluser man pages: **
+* man location 1: See userdel.
+
+**Relevant deluser Screenshots:**
+See userdel.

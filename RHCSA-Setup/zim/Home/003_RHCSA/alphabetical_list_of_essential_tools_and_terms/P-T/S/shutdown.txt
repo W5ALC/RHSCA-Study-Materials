@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T03:16:08-04:00
+
+====== shutdown ======
+Created Tuesday 31 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+S
+
+**KYWRD:** shutdown
+**RHCSA Objective: **002a Boot, reboot, and shut down a system normally
+
+**Summary:**
+The **shutdown** comand is used to halt, power off, or reboot Linux/Unix machines.
+
+**shutdown:**
+* shutdown - function: halt, power off, or reboot the machine.
+* shutdown - description: N/A
+* [[+shutdown - examples]]
+* [[+shutdown - options-flags]]
+
+**Relevant shutdown links:**
+* https://www.tldp.org/LDP/lame/LAME/linux-admin-made-easy/system-shutdown-and-restart.html
+
+**Relevant shutdown notes:**
+* N/A
+
+**Associated shutdown binary files: **
+* binary location 1: shutdown: /usr/sbin/shutdown
+
+**Associated shutdown man pages: **
+* man location 1:
+	* shutdown: 
+		* /usr/share/man/man2/shutdown.2.gz 	
+		* /usr/share/man/man8/shutdown.8.gz 
+		* /usr/share/man/man3p/shutdown.3p.gz
+
+**Relevant shutdown Screenshots:**
+N/A

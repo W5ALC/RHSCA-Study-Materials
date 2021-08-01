@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-17T10:36:43-04:00
+
+====== kill - examples ======
+Created Wednesday 17 October 2018
+
+[[:Home:002 all templates:examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:K:kill]]
+
+**KYWRD:** kill
+**RHCSA Objective: **002d Identify CPU/memory intensive processes, adjust process priority with renice, and kill processes
+
+**Summary:**
+This article contains examples that illustrate the correct use of the **kill **command.
+
+**kill - examples:**
+* kill - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
+* kill - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* kill - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
+
+**Relevant kill links:**
+* N/A
+
+**Relevant kill Screenshots:**
+N/A

@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T05:50:38-04:00
+
+====== chgrp ======
+Created Tuesday 31 July 2018
+
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C]]
+
+**KYWRD:** chgrp
+**RHCSA Objective: **0006c Create, delete, and modify local groups and group memberships
+
+**Summary:**
+The **chgrp** command is used to change the group ownership of files and folders on Linux/Unix systems.
+
+**chgrp:**
+* chgrp - function: Change group ownership of files and folders.
+* chgrp - description: N/A
+* [[+chgrp - examples]]
+* [[+chgrp - options-flags]] 
+
+**Relevant chgrp links:**
+* https://en.wikipedia.org/wiki/Chgrp
+
+**Relevant chgrp notes:**
+* N/A
+
+**Associated chgrp binary files: **
+* [[binary location]] 1: chgrp: /usr/bin/chgrp
+
+**Associated chgrp man pages: **
+* [[man location]] 1: 
+	* chgrp: 
+		* /usr/share/man/man1/chgrp.1.gz 
+		* /usr/share/man/man1p/chgrp.1p.gz
+
+**Relevant chgrp Screenshots**
+N/A
+

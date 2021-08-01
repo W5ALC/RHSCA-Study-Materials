@@ -1,0 +1,48 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-14T22:17:48-04:00
+
+====== regular expressions ======
+Created Saturday 14 July 2018
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R]]
+
+**KYWRD:** regex
+**RHCSA Objective: **001c Use grep and regular expressions to analyze text
+
+**Summary:**
+A **regular expression** is also known as a **regex** or **regexp**.  A regular expression is defined as a sequence of characters that defines a search pattern.  This search pattern is then used by a string search algorithm to perform one of three possible tasks on a text string:
+* find
+* find and replace
+* input validation
+
+The concept of a regular expression was originally developed by American mathematician Stephen Cole Kleene during the 1950s.  Regular expressions are used widely by: 
+* search engines (e.g. Google, Yahoo, Baidu, Mojeek, and Bing)
+* word processors and text editors (e.g. LibreOffice Writer, Microsoft Word, AbiWord, gedit, Notepad++, and Corel WordPerfect)
+* text processing utilities (e.g. sed, awk, and grep)
+* computer programming languages (e.g. C, C++, Perl, Java, Bash shell scripting etc.)
+
+**regex:**
+* regex - function: a sequence of characters that defines a search pattern.
+* regex - description: N/A
+* [[+regex - examples]] 
+* [[+regex - options-flags]] 
+
+**Relevant regex links:**
+* https://en.wikipedia.org/wiki/Regular_expression
+
+**Relevant regex notes:**
+* N/A
+
+**Associated regex binary files: **
+* [[binary location]] 1: N/A
+
+**Associated regex man pages: **
+* [[man location]] 1: N/A
+
+**Relevant regex Screenshots:**
+N/A

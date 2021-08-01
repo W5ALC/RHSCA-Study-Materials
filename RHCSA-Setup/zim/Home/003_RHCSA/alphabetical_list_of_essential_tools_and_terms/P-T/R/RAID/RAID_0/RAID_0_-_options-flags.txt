@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-21T03:01:44-05:00
+
+====== RAID 0 - options-flags ======
+Created Wednesday 21 November 2018
+
+[[:Home:002 all templates:options template]] version: Sunday 09/09/18 05:45:20 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:U-Z]][[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[RAID 0]]
+
+**KYWRD:** RAID 0
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
+
+**Summary:**
+This article describes the options available with **RAID 0**.
+
+**RAID 0 - options:**
+* -a: describe option a.
+* -b: describe option b.
+* -c: decsribe option c.
+
+**Relevant RAID 0 Screenshots:**
+{{~/Downloads/325px-RAID_0.svg.png}}

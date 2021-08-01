@@ -1,0 +1,47 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-10T21:41:36-04:00
+
+====== groupdel ======
+Created Friday 10 August 2018
+
+generic template version: Wednesday 08/08/18 11:14:36 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+RHCSA exam:objectives
+G
+
+**KYWRD:** groupdel
+**RHCSA Objective: **006c Create, delete, and modify local groups and group memberships
+
+**Summary**
+The **groupdel** command is used to delete groups.
+
+**groupdel:**
+* groupdel - function: delete groups.
+* groupdel - description: 
+	* groupdel modifies system account files, allowing the system administrator to delete all entries that refer to a given group. 
+	* A group that is the primary group of any user on the Linux system cannot be deleted until all members of that group are removed. 
+	* When deleting a group, the administrator must manually check all filesystems to make sure to no files remain owned by the group. groupdel will not automatically check this for the administrator.
+* [[+groupdel - options-flags]]
+* [[+groupdel - examples]] 
+
+**Relevant groupdel links:**
+* https://www.tutorialspoint.com/unix_commands/groupdel.htm
+
+**Relevant groupdel notes**
+* N/A
+
+**Associated binary files: **
+* binary location 1: groupdel: /usr/sbin/groupdel
+
+**Associated man pages: **
+* man location 1: groupdel: /usr/share/man/man8/groupdel.8.gz
+
+**Relevant groupdel Screenshots**
+N/A
+
+

@@ -1,0 +1,37 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-01T16:11:54-04:00
+
+====== chown - examples ======
+Created Monday 01 October 2018
+
+[[:Home:002 all templates:examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:chown]]
+
+**KYWRD:** chown
+**RHCSA Objective: **006c Create, delete, and modify local groups and group memberships
+
+**Summary:**
+This article contains examples that illustrate the correct use of the **chown **command.
+1. Find and Replace any occurence of chown in this page with the actual word.
+2. Edit this paragraph to provide a summary of this page.
+3. N/A anything that is not applicable.
+
+**chown - examples:**
+* chown - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
+* chown - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* chown - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
+
+**Relevant chown links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant chown Screenshots:**
+Paste any relevant screenshots here.

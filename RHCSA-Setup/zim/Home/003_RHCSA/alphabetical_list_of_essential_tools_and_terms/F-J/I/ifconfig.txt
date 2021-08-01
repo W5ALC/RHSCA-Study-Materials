@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-10T23:04:35-04:00
+
+====== ifconfig ======
+Created Tuesday 10 July 2018
+
+generic template version: Wednesday 08/08/18 11:14:36 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+RHCSA Objectives
+I
+
+**KYWRD:** ifconfig
+**RHCSA Objective: **5.a. Configure networking and hostname resolution statically or dynamically
+
+**Summary**
+ifconfig has been deprecated ([[https://www.techrepublic.com/article/pro-tip-use-the-ip-command-in-favor-of-the-deprecated-ifconfig/|announced in 2009]]) and has been replaced with ip and iproute2. ifconfig was used for network interface configuration.
+
+**ifconfig:**
+* ifconfig - function: network interface configuration.
+* ifconfig - description: N/A
+* ifconfig - options-flags: N/A
+* ifconfig - examples: N/A
+
+**Relevant ifconfig links:**
+* https://en.wikipedia.org/wiki/Ifconfig
+
+**Relevant ifconfig notes**
+* N/A
+
+**Associated binary files: **
+* binary location 1: ifconfig: /usr/sbin/ifconfig
+
+**Associated man pages: **
+* man location 1: ifconfig: /usr/share/man/man8/ifconfig.8.gz
+
+**Relevant ifconfig Screenshots**
+N/A

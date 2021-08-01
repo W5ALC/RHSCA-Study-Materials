@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-11T19:47:05-04:00
+
+====== gpg ======
+Created Wednesday 11 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+G
+
+**KYWRD:** gpg
+**RHCSA Objective: **007b Configure key-based authentication for SSH
+
+**Summary:**
+**gpg **is a free sofware/open source tool used for encryption and signing.
+
+**gpg:**
+* gpg - function: encrypt and sign.
+* gpg - description: N/A
+* [[+gpg - examples]]
+* [[+gpg - options-flags]]
+
+**Relevant gpg links:**
+* https://en.wikipedia.org/wiki/GNU_Privacy_Guard
+* https://gnupg.org/
+
+**Relevant gpg notes:**
+* N/A
+
+**Associated gpg binary files: **
+* binary location 1: gpg: /usr/bin/gpg
+
+**Associated gpg man pages: **
+* man location 1: gpg: /usr/share/man/man1/gpg.1.gz
+
+**Relevant gpg Screenshots:**N/A

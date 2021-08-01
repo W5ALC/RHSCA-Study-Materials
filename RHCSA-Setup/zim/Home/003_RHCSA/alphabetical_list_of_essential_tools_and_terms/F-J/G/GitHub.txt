@@ -1,0 +1,44 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T16:51:13-04:00
+
+====== GitHub ======
+Created Tuesday 31 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+G
+
+**KYWRD:** GitHub
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+**GitHub** provides web-based hosting for projects that manage their source code using the git version control system.
+
+**GitHub:**
+* GitHub - function: provide web-hosting for git-powered open source projects.
+* GitHub - description: N/A
+* GitHub - examples: N/A
+* GitHub - options-flags: N/A
+
+**Relevant GitHub links:**
+* https://en.wikipedia.org/wiki/GitHub
+* https://github.com/
+
+**Relevant GitHub notes:**
+* N/A
+
+**Associated GitHub binary files: **
+* binary location 1: N/A
+
+**Associated GitHub man pages: **
+* man location 1: N/A
+
+**Relevant GitHub Screenshots:**
+N/A
+

@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-11-27T03:03:41-05:00
+
+====== regex - examples ======
+Created Tuesday 27 November 2018
+
+[[:Home:002 all templates:examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:R:regular expressions]]
+
+**KYWRD:** regex
+**RHCSA Objective: **001c Use grep and regular expressions to analyze text
+
+**Summary:**
+This article contains examples that illustrate the correct use of **regular expressions**.
+
+**regex - examples:**
+* [[+regex - example 1]] : Regular expression LibreOffice Impress lecture.
+* regex - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* regex - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
+
+**Relevant regex links:**
+* N/A
+
+**Relevant regex Screenshots:**
+N/A

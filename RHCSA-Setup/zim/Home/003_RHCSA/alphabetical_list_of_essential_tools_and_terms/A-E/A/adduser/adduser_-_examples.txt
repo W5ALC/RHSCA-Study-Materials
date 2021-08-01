@@ -1,0 +1,29 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T15:15:31-04:00
+
+====== adduser - examples ======
+Created Tuesday 31 July 2018
+
+[[:Home:002 all templates:examples homepage template]] version: Friday 31 2018 10:09:02 PM
+(command to get timestamp: date '+%A %W %Y %X' )
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[A:adduser]]
+
+**KYWRD:** adduser
+
+**Summary**
+In the adduser examples, we will walk through some of the uses of the adduser command.
+
+**adduser - examples:**
+* [[+adduser - example 1]] : Adding a new user in a CentOS virtual machine.
+* [[+adduser - example 2]] : Add a new normal user, Jean-Luc Picard, to a CentOS system, and verify that his account was created properly.
+* adduser - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
+
+
+**Relevant adduser Screenshots**
+N/A.

@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T05:00:12-04:00
+
+====== vim ======
+Created Tuesday 31 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+V
+
+**KYWRD:** vim
+**RHCSA Objective: **001g Create and edit text files
+
+**Summary:**
+**vim **stands for **vi improved**.  vim is a clone of the Linux/Unix text editor vi that has some improvements.  vim was created by software developer Bram Moolenaar in 1991.
+
+**vim:**
+* vim - function: an improved version of the vi text editor. 
+* vim - description: N/A
+* [[vim - examples]]
+* [[vim - options-flags]]
+
+**Relevant vim links:**
+* https://en.wikipedia.org/wiki/Vim_(text_editor)
+
+**Relevant vim notes:**
+* N/A
+
+**Associated vim binary files: **
+* binary location 1: vim: /usr/bin/vim /usr/share/vim
+
+**Associated vim man pages: **
+* man location 1: vim: /usr/share/man/man1/vim.1.gz
+
+**Relevant vim Screenshots:**
+N/A

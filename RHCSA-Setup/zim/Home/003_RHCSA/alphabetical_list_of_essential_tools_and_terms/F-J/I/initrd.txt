@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-19T02:19:31-04:00
+
+====== initrd ======
+Created Thursday 19 July 2018
+
+generic template version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+RHCSA Objectives
+I
+
+**KYWRD:** initrd
+**RHCSA Objective: **Type the target RHCSA Objective here.
+
+**Summary**
+initrd is a RAM disk initialized by the boot loader during a Linux pc's boot legacy boot process.
+
+**initrd:**
+* initrd - function: RAM disk initialized by the boot loader during the Linux boot process.
+* initrd - description: N/A
+* initrd - options-flags: N/A
+* initrd - examples: N/A
+
+**Relevant initrd links:**
+* https://www.ibm.com/developerworks/library/l-initrd/index.html
+
+**Relevant initrd notes**
+* N/A
+
+**Associated binary files: **
+* binary location 1: N/A
+
+**Associated man pages: **
+* man location 1: initrd: /usr/share/man/man4/initrd.4.gz
+
+**Relevant initrd Screenshots**
+N/A

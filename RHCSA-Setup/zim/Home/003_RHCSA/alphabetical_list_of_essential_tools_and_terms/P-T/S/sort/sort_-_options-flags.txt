@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-25T22:48:29-04:00
+
+====== sort - options-flags ======
+Created Saturday 25 August 2018
+
+[[Home:002 all templates:options template|options template]] version: Wednesday 08/08/18 11:13:20 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[RHCSA exam:objectives]]
+[[sort]]
+
+**KYWRD:** sort
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary**
+This article lists the options available with the [[sort]] command.
+
+**KEYWORD - options:**
+* -b, --ignore-leading-blanks: ignore leading blanks.
+* -d, --dictionary-order: considers blanks and alpha-numeric characters only.
+* -f, --ignore-case: fold lower case to upper case characters.
+* -g, --general-numeric-sort: compare according to general numeric values.
+* -i, --ignore-nonprinting: consider only printable characters.
+* -M, --month-sort: sort by month e.g. Jan < Feb < Mar.
+* -h, --human-numeric-sort: sort human-readable numbers e.g. 2K < 1M < 1G.
+* -n, --numeric-sort: sort according string numerical value e.g. one < two < three.
+* -R, --random-sort
+* --random-source=//FILE//
+* -r, --reverse: sort in reverse order e.g. descending vice ascending.
+* --sort=//WORD//
+* -V, --version-sort
+* **TO BE COMPLETED LATER.**
+
+**Relevant KEYWORD Screenshots**
+N/A

@@ -1,0 +1,64 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-03T00:22:01-04:00
+
+====== SSH - example 2 ======
+Created Monday 03 September 2018
+
+[[002 all templates:examples homepage template:examples template|examples template]] version: Wednesday 08/15/18 10:08:58 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+RHCSA Objectives
+[[SSH - examples]]
+
+**KYWRD:** SSH - example 2
+**RHCSA Objective: **001d Access remote systems using SSH
+
+**Summary:**
+Use [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]] to login to a remote server, edit a file, and exit.
+
+**Note:** This examples continues to use **companies_unsorted.txt** created in [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP:SSH - examples:SSH - example 1|SSH - example 1]] . Please complete **SSH - example 1** before starting **SSH - example 2**.
+
+**Scenario:**
+Tunde is a RHEL sysadmin at Lagos State University. https://sdfeu.org/w free Unix shell does not have  the [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:S:sort|sort]] command. Tunde needs to manually sort **companies_unsorted.txt**, and save it as **companies_sorted.txt**.
+* Tunde logs into the sdfeu server using this command: **ssh tundeo@sdfeu.org**
+* He creates a new empty file using this command: **pico companies_sorted.txt**
+
+a.) How will Tunde get the unsorted list of companies from __companies_unsorted.txt__ into __companies_sorted.txt__?
+b.) Once the unsorted list of companies has been read into the new file, how will Tunde manually sort the company names alphabetically?
+
+
+**SSH - example 2 - tasks **(command line commands are __highlighted__)**:**
+1. Startup your CentOS/RHEL system, and login as a normal user.
+2. Login to your sdfeu shell using [[Home:003 RHCSA:alphabetical list of essential tools and terms:P-T:P:ports:00022 SSH TCP|SSH]]:
+	a. __ssh your_username@sdfeu.org__
+3. Create a new file named **companies_sorted.txt** using pico:
+	a. __pico companies_sorted.txt__
+4. Read the contents of **companies_unsorted.txt** into **companies_sorted.txt** using __CTRL+R__.
+5. Manually sort the companies alphabetically to get used to working within pico (use __CTRL+K__ and __CTRL+U__).
+6. Save the file: __CTRL+O__.
+7. Exit pico: __CTRL+X__.
+8. View **companies_unsorted.txt** and **companies_sorted.txt** using [[Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:C:cat|cat]]:
+	a. cat companies_u*
+	b. cat companies_s*
+9. Exit the terminal: type __exit__ , then hit __Enter__
+
+**Relevant SSH - example 2 links:**
+* N/A
+
+**Relevant SSH - example 2 Screenshots**
+
+Step 3.
+{{./pasted_image.png}}
+
+Step 4.
+{{./pasted_image001.png}}
+
+Steps 6 and 7.
+{{./pasted_image002.png}}
+
+Steps 8a and 8b -unsorted versus sorted.
+{{./pasted_image003.png}}

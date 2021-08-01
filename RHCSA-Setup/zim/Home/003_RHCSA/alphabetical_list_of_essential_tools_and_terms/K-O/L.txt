@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-05T21:49:27-04:00
+
+====== L ======
+Created Sunday 05 August 2018
+
+[[:Home:002 all templates:A-Z pages template]] version: Tuesday 08/07/18 11:47:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:K-O]]
+
+**Summary**
+All commands, utilities and terms starting with the letter L are sub-pages to this page.
+
+**L:**
+* [[+last]]
+* [[+lastb]]
+* [[+ldd]]
+* [[+less]] , [[M:more]]
+* [[+LILO]]
+* [[+locate]] 
+* [[+lft]]
+* [[+ln]]
+* [[+login]]
+* [[+logout]]
+* [[+loopback device]]
+* [[+lpc]]
+* [[+lpq]]
+* [[+lpr]]
+* [[+lprm]]
+* [[+ls]]
+* [[+lsblk]]
+* [[+lshal]]
+* [[+lshw]]
+* [[+lsof]]
+* [[+lsmod]]
+* [[+lspci]]
+* [[+lsusb]]
+* [[+LVM]]

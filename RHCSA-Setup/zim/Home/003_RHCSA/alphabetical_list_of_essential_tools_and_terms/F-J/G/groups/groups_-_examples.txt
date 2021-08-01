@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-09-16T16:21:22-04:00
+
+====== groups - examples ======
+Created Sunday 16 September 2018
+
+[[002 all templates:examples homepage template|examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[002 all templates]]
+[[00 TODO LIST]]
+[[003 RHCSA:RHCSA exam:objectives]]
+[[groups]]
+
+**KYWRD:** groups
+**RHCSA Objective: **006c Create, delete, and modify local groups and group memberships
+
+**Summary:**
+This article contains examples that illustrate the correct use of **groups** on Linux/Unix systems.
+
+**groups - examples:**
+* groups - example 1 : Create example 1 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 1.
+* groups - example 2 : Create example 2 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 2.
+* groups - example 3 : Create example 3 using [[Home:002 all templates:examples homepage template:examples template|this examples template]][[Home:002 all templates:examples homepage template|,]] and then briefly describe example 3.
+
+**Relevant groups links:**
+* N/A
+
+**Relevant groups Screenshots:**
+N/A

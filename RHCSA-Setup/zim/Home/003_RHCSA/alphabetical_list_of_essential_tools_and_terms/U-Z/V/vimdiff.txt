@@ -1,0 +1,42 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T06:31:31-04:00
+
+====== vimdiff ======
+Created Tuesday 31 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+V
+
+**KYWRD:** vimdiff
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The Linux/Unix **vimdiff** utility is used to visually see the differences between multiple files.
+
+**vimdiff:**
+* vimdiff - function: view differences between multiple files.
+* vimdiff - description: N/A
+* [[+vimdiff - examples]] 
+* [[+vimdiff - options-flags]]
+
+**Relevant vimdiff links:**
+* https://en.wikipedia.org/wiki/Vim_(text_editor)#Features_and_improvements_over_vi
+
+**Relevant vimdiff notes:**
+* N/A
+
+**Associated vimdiff binary files: **
+* binary location 1: vimdiff: /usr/bin/vimdiff
+
+**Associated vimdiff man pages: **
+* man location 1: vimdiff: /usr/share/man/man1/vimdiff.1.gz
+
+**Relevant vimdiff Screenshots:**
+N/A

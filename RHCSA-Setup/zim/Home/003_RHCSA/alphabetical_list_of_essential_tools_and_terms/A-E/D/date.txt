@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T02:49:47-04:00
+
+====== date ======
+Created Tuesday 31 July 2018
+
+[[:Home:002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:A-E:D]]
+
+**KYWRD:** date
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+The Linux/Unix **date **command is used to print or set the date and time on Unix-like systems.
+
+**date:**
+* date - function: print or set the date and time.
+* date - description: N/A
+* [[+date - examples]] 
+* [[+date - options-flags]] 
+
+**Relevant date links:**
+* http://pubs.opengroup.org/onlinepubs/009604599/utilities/date.html
+
+**Relevant date notes:**
+* N/A
+
+**Associated date binary files: **
+* [[binary location]] 1: date: /usr/bin/date
+
+**Associated date man pages: **
+* [[man location]] 1: 
+	* date: 
+		* /usr/bin/date /usr/share/man/man1p/date.1p.gz 
+		* /usr/share/man/man1/date.1.gz
+
+**Relevant date Screenshots:**
+N/A
+

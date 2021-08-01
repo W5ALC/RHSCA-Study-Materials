@@ -1,0 +1,45 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-08-15T21:12:32-04:00
+
+====== fuser ======
+Created Wednesday 15 August 2018
+
+generic template version: Wednesday 08/15/18 08:48:19 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+RHCSA exam:objectives
+F
+
+**KYWRD:** fuser
+**RHCSA Objective: **004a Create, mount, unmount, and use vfat, ext4, and xfs file systems
+
+**Summary**
+**fuser** identifies which processes are using given files or sockets.
+
+**fuser:**
+* fuser - function: Identies which processes are using files or sockets.
+* fuser - description: fuser displays the PID of whichever processes are using a specified file or filesystem.
+* [[+fuser - examples]] 
+* [[+fuser - options-flags]] 
+
+**Relevant fuser links:**
+* https://en.wikipedia.org/wiki/Fuser_(Unix)
+
+**Relevant fuser notes**
+* N/A
+
+**Associated binary files: **
+* binary location 1: fuser: /usr/sbin/fuser
+
+**Associated man pages: **
+* man location 1:
+	* fuser: 
+		* /usr/share/man/man1/fuser.1.gz 
+		* /usr/share/man/man1p/fuser.1p.gz
+
+**Relevant fuser Screenshots**
+N/A

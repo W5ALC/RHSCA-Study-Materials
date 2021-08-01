@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T04:16:56-04:00
+
+====== dmidecode ======
+Created Tuesday 31 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA [[exam:objectives]]
+[[F-J:H:hardware]]
+D
+
+**KYWRD:** dmidecode
+**RHCSA Objective: **005j Update the kernel package appropriately to ensure a bootable system
+
+**Summary:**
+The **dmidecode** utility is used to inspect the information provided by the **SMBIOS decoder** in the Linux kernel.
+
+**dmidecode:**
+* dmidecode - function: inspect the information provided by the **SMBIOS decoder** in the Linux kernel.
+* dmidecode - description: N/A
+* [[+dmidecode - examples]]
+* [[+dmidecode - options-flags]] 
+
+**Relevant dmidecode links:**
+* https://linux.die.net/man/8/dmidecode
+
+**Relevant dmidecode notes:**
+* N/A
+
+**Associated dmidecode binary files: **
+* binary location 1: dmidecode: /usr/sbin/dmidecode
+
+**Associated dmidecode man pages: **
+* man location 1: dmidecode: /usr/share/man/man8/dmidecode.8.gz
+
+**Relevant dmidecode Screenshots:**
+N/A

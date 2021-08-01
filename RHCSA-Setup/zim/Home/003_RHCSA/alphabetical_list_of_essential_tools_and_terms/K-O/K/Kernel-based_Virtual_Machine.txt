@@ -1,0 +1,40 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T16:20:45-04:00
+
+====== Kernel-based Virtual Machine ======
+Created Tuesday 31 July 2018
+
+[[:Home]]
+[[:Home:000 TODO LIST]]
+[[:Home:002 all templates]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[KVM]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:K]]
+
+**KYWRD:** KVM
+**RHCSA Objective: **002f Access a virtual machine's console
+
+**Summary**
+See [[KVM]].
+
+**KVM:**
+* KVM - function: See [[KVM]].
+* KVM - description: See [[KVM]].
+* KVM - examples: See [[KVM]].
+* KVM - options-flags: See [[KVM]].
+
+**Relevant KVM links:**
+* See [[KVM]].
+
+**Relevant KVM notes:**
+* See [[KVM]].
+
+**Associated KVM binary files: **
+* binary location 1: See [[KVM]].
+
+**Associated KVM man pages: **
+* man location 1: See [[KVM]].
+
+**Relevant KVM Screenshots:**
+See [[KVM]].

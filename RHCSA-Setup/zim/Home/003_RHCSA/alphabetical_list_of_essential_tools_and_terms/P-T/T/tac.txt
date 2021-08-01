@@ -1,0 +1,46 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T04:44:19-04:00
+
+====== tac ======
+Created Tuesday 31 July 2018
+
+generic template version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+Home
+000 TODO LIST
+002 all templates
+003 RHCSA:RHCSA exam:objectives
+T
+
+**KYWRD:** tac
+**RHCSA Objective: **001g Create and edit text files
+
+**Summary:**
+The **tac** utility is used to concatenate and print files in reverse on Linux/Unix systems.
+
+**tac:**
+* tac - function: Concatenate and print files in reverse.
+* tac - description: N/A
+* [[+tac - examples]] 
+* [[+tac - options-flags]] [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the tac options page using this template: options template]
+
+**Relevant tac links:**
+* link 1
+* link 2
+* link 3
+
+**Relevant tac notes:**
+* note 1
+* note 2
+* note 3
+
+**Associated tac binary files: **
+* binary location 1:
+
+**Associated tac man pages: **
+* man location 1:
+
+**Relevant tac Screenshots:**
+Paste any relevant screenshots here.

@@ -1,0 +1,32 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-10-16T23:43:52-04:00
+
+====== kernel.img - examples ======
+Created Tuesday 16 October 2018
+
+[[:Home:002 all templates:examples homepage template]] version: Wednesday 09/05/18 01:56:46 AM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[:Home]]
+[[:Home:002 all templates]]
+[[:Home:000 TODO LIST]]
+[[:Home:003 RHCSA:RHCSA exam:objectives]]
+[[:Home:003 RHCSA:alphabetical list of essential tools and terms:K-O:K:kernel.img]]
+
+**KYWRD:** kernel.img
+**RHCSA Objective: **002a Boot, reboot, and shut down a system normally
+
+**Summary:**
+This article contains examples that illustrate the correct use of **kernel.img**.
+
+**kernel.img - examples:**
+* kernel.img - example 1 : Create example 1 using this examples template, and then briefly describe example 1.
+* kernel.img - example 2 : Create example 2 using this examples template, and then briefly describe example 2.
+* kernel.img - example 3 : Create example 3 using this examples template, and then briefly describe example 3.
+
+**Relevant kernel.img links:**
+* N/A
+
+**Relevant kernel.img Screenshots:**
+N/A

@@ -1,0 +1,43 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-30T21:25:03-04:00
+
+====== GB ======
+Created Monday 30 July 2018
+
+[[002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[RHCSA exam:objectives]]
+[[G]]
+
+**KYWRD:** GB
+**RHCSA Objective: **003a List, create, delete partitions on MBR and GPT disks
+
+**Summary:**
+See [[gigabyte]].
+
+**GB:**
+* GB - function: See [[gigabyte]].
+* GB - description: See [[gigabyte]].
+* GB - examples: See [[gigabyte]].
+* GB - options-flags: See [[gigabyte]].
+
+**Relevant GB links:**
+* https://en.wikipedia.org/wiki/Gigabyte
+
+**Relevant GB notes:**
+* See [[gigabyte]].
+
+**Associated GB binary files: **
+* [[binary location]] 1: See [[gigabyte]].
+
+**Associated GB man pages: **
+* [[man location]] 1: See [[gigabyte]].
+
+**Relevant GB Screenshots:**
+See [[gigabyte]].
+

@@ -1,0 +1,50 @@
+Content-Type: text/x-zim-wiki
+Wiki-Format: zim 0.4
+Creation-Date: 2018-07-31T04:39:39-04:00
+
+====== gcc ======
+Created Tuesday 31 July 2018
+
+[[002 all templates:generic template]] version: Sunday 09/09/18 05:29:36 PM
+command to get timestamp: __date '+%A %D %X'__ 
+
+[[Home]]
+[[000 TODO LIST]]
+[[002 all templates]]
+[[RHCSA exam:objectives]]
+[[G]]
+
+**KYWRD:** gcc
+**RHCSA Objective: **001a Access a shell prompt and issue commands with correct syntax
+
+**Summary:**
+**gcc **stands for the **GNU Compiler Collection**.  It is a source code compiler developed by the **GNU Project**, and it supports several programming languages.
+
+**gcc:**
+* gcc - function: source code compiler.
+* gcc - description: N/A
+* gcc - examples [If the examples page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the gcc examples page using this template:  [[002 all templates:examples homepage template]]]
+* gcc - options-flags [If the option-flags page is needed, convert the text to the left to a link after you have done the kywrd find and replace. Create the gcc options page using this template: [[002 all templates:options template]]]
+
+**Relevant gcc links:**
+* https://www.gnu.org/software/gcc/
+* lhttps://en.wikipedia.org/wiki/GNU_Compiler_Collection
+
+**Relevant gcc notes:**
+N/A
+
+**Associated gcc binary files: **
+* [[binary location]] 1:
+	* gcc:
+		* /usr/bin/gcc 
+		* /usr/lib/gcc 
+		* /usr/libexec/gcc
+
+**Associated gcc man pages: **
+* [[man location]] 1:
+	* gcc: 
+		* /usr/share/man/man1/gcc.1.gz 
+		* /usr/share/info/gcc.info.gz
+
+**Relevant gcc Screenshots:**
+N/A
